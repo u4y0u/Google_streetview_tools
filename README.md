@@ -1,7 +1,7 @@
 # Google Street View tools
 
 
-## [QGIS project Google streetview tracking](https://github.com/u4y0u/Google_streetview_tools/blob/main/Google%20Streetview%20tracking.md)
+## [QGIS project Google streetview tracking (1)](https://github.com/u4y0u/Google_streetview_tools/blob/main/Google%20Streetview%20tracking.md)
 
 ![BT remote](Menu_image_sv_tracking.png)
 
@@ -11,6 +11,19 @@
 
 
 
+			-=O=-
+
+
+1: ‘QGIS project Google streetview tracking’ requires you to load the QField application on your smartphone.
+
+1: "QGIS project Google streetview tracking" necessite de charger l'application QField sur votre smartphone.
+
+
+site **[QField](https://www.qfield.org/)**
+
+[application APKPure](https://apkpure.com/qfield-for-qgis/ch.opengis.qfield)
+
+[application Playstore](https://play.google.com/store/apps/details?id=ch.opengis.qfield)
 
 
 

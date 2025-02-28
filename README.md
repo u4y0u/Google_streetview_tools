@@ -2,7 +2,7 @@
 
 
 ## [QGIS project Google streetview tracking (1)](https://github.com/u4y0u/Google_streetview_tools/blob/main/Google%20Streetview%20tracking.md)
-https://github.com/u4y0u/Google_streetview_tools/blob/main/Google%20streetview%20tracking%20v2.zip
+
 
 ![BT remote](Menu_image_sv_tracking.png)
 

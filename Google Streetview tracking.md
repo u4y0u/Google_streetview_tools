@@ -5,7 +5,7 @@
 This QGIS project gives you a streetview map background on your smartphone (you can choose between standard Maps, hybrid Maps...), with blue lines showing existing routes and areas still to be covered, as well as an overlay of your route covered during the session.
 This means you don't have to go back to the same place several times, or to a location you've already captured.
 
-Téléchargement du projet ![ici](Google%20streetview%20tracking%20v2.zip)
+Téléchargement du projet ![ici](Google_streetview_tracking_v2)
 
 ![Maps streetview standard](Screen_sv.jpg) ![Maps streetview standard](Screen_Hybrid.jpg)
 
